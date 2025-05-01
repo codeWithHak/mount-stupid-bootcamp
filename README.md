@@ -54,5 +54,4 @@ Feel like you're also camping on Mount Stupid with your overconfidence tent?
 Grab your backpack and climb with me.
 
 > Because *knowing you're not a genius* is the first step to becoming one.
-
-## 
+ 
