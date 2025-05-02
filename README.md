@@ -42,7 +42,7 @@ This is a **personal climb** down from Mount Stupid and up the real **Slope of E
 ## 🔥 The Rules
 
 - 📆 **Duration**: 30 Days
-- ⏱️ **Daily Commitment**: 1 Hour Minimum
+- ⏱️ **Daily Commitment**: 30-60 Minutes
 - 🧩 **Daily Challenge**: Logic, real-world problems, skill testers
 - 🧠 **Goal**: Reach the Plateau of Sustainable Python Brilliance™
 
